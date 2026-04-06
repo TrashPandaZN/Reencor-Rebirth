@@ -9,7 +9,7 @@ Check out the gameplay demo on Reddit:
 
 ## Version
 
-**Version:** 0.3.2-pre.1
+**Version:** 0.3.3
 
 ## Features
 
