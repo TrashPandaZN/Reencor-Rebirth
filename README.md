@@ -55,7 +55,7 @@ Menu shortcuts: `Enter` or `Space` to confirm, `Backspace` or `Esc` to go back.
 ## How to Run
 
 ```bash
-git clone https://github.com/TrashPandaZN/Reencor-Rebirth)
+git clone https://github.com/TrashPandaZN/Reencor-Rebirth
 cd Reencor
 py -3.13 -m pip install -r requirements.txt
 py -3.13 main.py
