@@ -52,6 +52,7 @@ Unzip the file and place the folder in the `Assets/images` folder before running
 | Special Move (e.g., Hadouken) | ↓ ↘ → + Punch |
 
 Menu shortcuts: `Enter` or `Space` to confirm, `Backspace` or `Esc` to go back.
+Multiplayer Is still being worked on so dont try to run that
 ## How to Run
 
 ```bash
