@@ -51,9 +51,17 @@ Unzip the file and place the folder in the `Assets/images` folder before running
 | Heavy Kick (HK)     | E                        |
 | Special Move (e.g., Hadouken) | ↓ ↘ → + Punch |
 
+Menu shortcuts: `Enter` or `Space` to confirm, `Backspace` or `Esc` to go back.
 ## How to Run
 
 ```bash
 git clone https://github.com/Ranguel/Reencor
 cd Reencor
-python main.py
+py -3.13 -m pip install -r requirements.txt
+py -3.13 main.py
+```
+
+Or on Windows, run:
+
+```bat
+run_game.bat
